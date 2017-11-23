@@ -1,11 +1,11 @@
 # Additional Resources
-
+学习资料：  
 ###Official Resources:
 
- - [TensorFlow Python API](https://www.tensorflow.org/api_docs/python/)
- - [TensorFlow on Github](https://github.com/tensorflow/tensorflow)
- - [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/)
- - [Udacity Deep Learning Class](https://www.udacity.com/course/deep-learning--ud730)
+ - [TensorFlow Python API](https://www.tensorflow.org/api_docs/python/  '包含TensorFlow所有函数、对象、方法的文档和例子。')
+ - [TensorFlow on Github](https://github.com/tensorflow/tensorflow 'TensorFlow官方GitHUb仓库')
+ - [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/  '包括图像识别模型、Word2Vec、RNN模型和sequence-to-sequence模型，也有一些偏微分方程的例子')
+ - [Udacity Deep Learning Class](https://www.udacity.com/course/deep-learning--ud730 '深度学习基础，数学知识和深度学习开发，Google在线课程')
  - [TensorFlow Playground](http://playground.tensorflow.org/)
 
 ###Github Tutorials and Examples:
@@ -17,13 +17,15 @@
 
 ###Deep Learning Resources
 
+ - [深度学习开山祖师爷Geoffery Hinton：机器学习中的神经网络](https://www.coursera.org/leran/neural-networks)
  - [Efficient Back Prop by Yann LeCun, et. al.](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
  - [Online Deep Learning Book, MIT Press](http://www.deeplearningbook.org/)
  - [An Overview of Gradient Descent Algorithms by Sebastian Ruder](http://sebastianruder.com/optimizing-gradient-descent/)
  - [Stochastic Optimization by John Duchi, et. al.](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
  - [ADADELTA Method by Matthew Zeiler](http://arxiv.org/abs/1212.5701)
  - [A Friendly Introduction to Cross-Entropy Loss by Rob DiPietro](http://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
-
+ - [图像识别中的卷积神经网络](http://cs231n.stanford.edu/)
+ - [Stack Overflow -- TensorFlow](http://stackoverflow.com/questions/tagged/TensorFlow)
 
 ###Additional Resources
 
